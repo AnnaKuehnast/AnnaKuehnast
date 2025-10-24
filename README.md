@@ -1,43 +1,48 @@
-## Hi there 👋
-I'm Anna Kuehnast!
-I've always felt deeply.
-I'm a passionate writer, avid reader, and lover of forests. I have an insatiable desire to grow and learn personally and professionally, excited to learn all I can. 
-I have fought to retain my love for others and wonder at the world around me, seeking to use storytelling to help others communicate.
-My current learning obsessions include tech writing, aviation/aerospace writing, and anthropology.
+## :evergreen_tree:Anna Kuehnast - Writing Portfolio 
+ 
+An ambitious communications student with CMS experience, excited to continue learning in an entry-level content or technical writer position.   
 
-Skills
-Strong organizational and time-management skills.
-Rigorous Work Ethic.
-Developed social media schedule for college project, including writing 8 Facebook posts and 5 LinkedIn posts.
-Wrote a flyer, annual report, internal newsletter, and an Op-ed for the PR SNHU class
-Has created multiple websites on different CMS Platforms, including GoDaddy, Wix, and WordPress.
+### About Me
+I'm a passionate writer, avid reader, and lover of forests. I have an insatiable desire to grow and learn personally and professionally, excited to learn all I can.  
+I have fought to retain my love for others and wonder at the world around me, seeking to use storytelling to help others communicate.  
+My current learning fascinatiions include tech writing, aviation/aerospace writing, and anthropology.  
 
-Continually fascinated by the weightier things of this world, I love learning about sociology. My journey of personal growth has most recently included discovering how my brain and body function as a neurdivergent young adult. When not petting cats, you can find me enjoying video games, watching animated films, and nerding out over sociology. 
-Fun facts about me: I play violin and cello, listen to metal, pop, and folk in equal measure, and love walking in the woods.  
+When not petting cats, you can find me practicing cello, listening to metal, pop, and folk in equal measure, or walking in the woods. 
+*** 
+### Skills
+- Strong organizational and time-management skills  
+- Rigorous Work Ethic  
+- Developed social media schedule, including writing 8 Facebook posts and 5 LinkedIn posts for "Social Media Strategy" SNHU class  
+- Wrote a flyer, annual report, internal newsletter, and an Op-ed for "Writing for Public Relations" SNHU class.  
+- Created personal websites using different CMS Platforms, including GoDaddy, Wix, and WordPress  
 
-Education
-Southern New Hampshire University
-BA Communications Fall 2024-Present
-GPA:3.78
-Concentration in Professional Writing
-Classes include Writing for Public Relations, Business Communications, and Tech Writing Communications.
+***
+### Education
 
-Honors
-Dean's List-SNHU 2025
-President's List-SNHU-Fall 2024, Summer 2025
-Honor Roll-SNHU-242-Present
+#### Oakland Community College
+##### Associate's degree in Arts
+_Winter 2020-Spring 2024_
+* GPA - 3.68
+* Classes include - Introduction to Sociology, Introduction to Criminology, and Composition 2
 
-Certifications
-Content Marketing HubSpot Certification (2024)
-Digital Marketing HubSpot Certification (2024)
-<!--
-
-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+#### Southern New Hampshire University  
+##### BA in Communications  
+_Concentration in Professional Writing_  
+  _Fall 2024-Present_   
+* GPA - 3.78  
+* Classes include - Writing for Public Relations, Business Communications, and Tech Writing Communications  
+***
+### Honors
+_SNHU_  
+* Dean's List - _2025_  
+* President's List - _Fall 2024, Summer 2025_  
+* Honor Roll - _2024-Present_  
+***
+### Certifications
+* Content Marketing HubSpot Certification (2024)  
+* Digital Marketing HubSpot Certification (2024)
+***
+ ### 📫 Contact Info
+ * email: annagraphicontent@gmail.com  
+ * LinkedIn: www.linkedin.com/in/anna-kuehnast-1a9801191  
+ * Website: www.annagraphicontent.com  
