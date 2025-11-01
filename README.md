@@ -1,4 +1,4 @@
-## :evergreen_tree:Anna Kuehnast - Writing Portfolio 
+## :evergreen_tree:Anna Kuehnast - Technical Writing Portfolio 
  
 An ambitious communications student with CMS experience, excited to continue learning in an entry-level content or technical writer position.   
 
