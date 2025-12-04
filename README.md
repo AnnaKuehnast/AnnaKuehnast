@@ -45,4 +45,6 @@ _SNHU_
  ### 📫 Contact Info
  * email: annagraphicontent@gmail.com  
  * LinkedIn: www.linkedin.com/in/anna-kuehnast-1a9801191  
- * Website: www.annagraphicontent.com  
+ * Website: www.annagraphicontent.com
+
+All portfolio pieces were created as a part of SNHU courses, and the scenarios therin are fictional. Any real-life data used are cited in APA 7 format. 
