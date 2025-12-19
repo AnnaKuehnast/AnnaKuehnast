@@ -5,7 +5,7 @@ An ambitious communications student with CMS experience, excited to continue lea
 ### About Me
 I'm a passionate writer, avid reader, and lover of forests. I have an insatiable desire to grow and learn personally and professionally, excited to learn all I can.  
 I have fought to retain my love for others and wonder at the world around me, seeking to use storytelling to help others communicate.  
-My current learning fascinatiions include tech writing, aviation/aerospace writing, and anthropology.  
+My current fascinations include tech writing, aviation/aerospace writing, and anthropology.  
 
 When not petting cats, you can find me practicing cello, listening to metal, pop, and folk in equal measure, or walking in the woods. 
 *** 
