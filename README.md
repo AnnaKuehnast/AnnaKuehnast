@@ -48,3 +48,5 @@ _SNHU_
  * Website: www.annagraphicontent.com
 
 All portfolio pieces were created as a part of SNHU courses, and the scenarios therin are fictional. Any real-life data used are cited in APA 7 format. 
+The Fun Run Poster was created using Canva and a free modified template by Canva creator "Semula Studio."
+The Newsletter and the organ donor gala poster were also created using free Canva elements and templates. 
